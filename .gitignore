@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SessionTokenApi/.vs
+/SessionTokenApi/SessionTokenApi/bin/Debug/net5.0
+/SessionTokenApi/SessionTokenApi/obj
